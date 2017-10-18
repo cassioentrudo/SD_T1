@@ -1,0 +1,15 @@
+# Output products list for <caixa1_somador>
+_xmsgs\pn_parser.xmsgs
+caixa1_somador.asy
+caixa1_somador.gise
+caixa1_somador.ngc
+caixa1_somador.sym
+caixa1_somador.vhd
+caixa1_somador.vho
+caixa1_somador.xco
+caixa1_somador.xise
+caixa1_somador\doc\c_addsub_v11_0_readme.txt
+caixa1_somador\doc\c_addsub_v11_0_vinfo.html
+caixa1_somador\doc\ds214_addsub.pdf
+caixa1_somador_flist.txt
+caixa1_somador_xmdf.tcl

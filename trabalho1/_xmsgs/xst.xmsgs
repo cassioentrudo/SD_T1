@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trabalho1</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Sistemas Digitais/trabalho1/trabalho1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/trabalho1/Behavioral</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Sistemas Digitais/trabalho1/trabalho1.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/caixa1_somador</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Sistemas Digitais/trabalho1/ipcore_dir/caixa1_somador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="HDLParsers" num="3607" delta="new" >Unit <arg fmt="%s" index="1">work/caixa1_somador/caixa1_somador_a</arg> is now defined in a different file.  It was defined in &quot;<arg fmt="%s" index="2">C:/Sistemas Digitais/trabalho1/ipcore_dir/caixa1_somador.vhd</arg>&quot;, and is now defined in &quot;<arg fmt="%s" index="3">C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd</arg>&quot;.
+</msg>
+
+<msg type="warning" file="Xst" num="2211" delta="new" >&quot;<arg fmt="%s" index="1">C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd</arg>&quot; line <arg fmt="%d" index="2">176</arg>: Instantiating black box module &lt;<arg fmt="%s" index="3">caixa1_somador</arg>&gt;.
+</msg>
+
+</messages>
+

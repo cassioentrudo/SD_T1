@@ -1,0 +1,19 @@
+V3 11
+FL C:/cassio/VHDL/trabalho1/ipcore_dir/caixa1_somador.vhd 2017/10/08.17:22:47 P.20131013
+FL C:/cassio/VHDL/trabalho1/trabalho1.vhd 2017/10/08.23:25:52 P.20131013
+FL C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd 2017/10/08.17:22:47 P.20131013
+EN work/caixa1_somador 1507676926 \
+      FL C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/caixa1_somador/caixa1_somador_a 1507676927 \
+      FL C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd \
+      EN work/caixa1_somador 1507676926
+FL C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd 2017/10/10.20:08:27 P.20131013
+EN work/trabalho1 1507676928 FL C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/trabalho1/Behavioral 1507676929 \
+      FL C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd EN work/trabalho1 1507676928 \
+      CP caixa1_somador
+FL "C:/Sistemas Digitais/trabalho1/ipcore_dir/caixa1_somador.vhd" 2017/10/08.17:22:47 P.20131013
+FL "C:/Sistemas Digitais/trabalho1/trabalho1.vhd" 2017/10/10.10:37:44 P.20131013

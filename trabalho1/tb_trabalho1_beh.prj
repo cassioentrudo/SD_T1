@@ -1,0 +1,3 @@
+vhdl work "ipcore_dir/caixa1_somador.vhd"
+vhdl work "trabalho1.vhd"
+vhdl work "tb_trabalho1.vhd"

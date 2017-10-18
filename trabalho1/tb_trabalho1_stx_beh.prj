@@ -1,0 +1,3 @@
+vhdl isim_temp "ipcore_dir/caixa1_somador.vhd"
+vhdl isim_temp "trabalho1.vhd"
+vhdl isim_temp "tb_trabalho1.vhd"

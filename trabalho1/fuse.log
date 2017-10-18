@@ -1,0 +1,34 @@
+Running: fuse.exe -relaunch -intstyle "ise" -incremental -o "C:/cassio/VHDL/trabalho1/trabalho1/tb_trabalho1_isim_beh.exe" -prj "C:/cassio/VHDL/trabalho1/trabalho1/tb_trabalho1_beh.prj" "work.tb_trabalho1" 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/cassio/VHDL/trabalho1/trabalho1/ipcore_dir/caixa1_somador.vhd" into library work
+Parsing VHDL file "C:/cassio/VHDL/trabalho1/trabalho1/trabalho1.vhd" into library work
+Parsing VHDL file "C:/cassio/VHDL/trabalho1/trabalho1/tb_trabalho1.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling package xbip_addsub_v2_0_comp
+Compiling package textio
+Compiling package bip_utils_pkg_v2_0
+Compiling package bip_usecase_utils_pkg_v2_0
+Compiling package c_addsub_pkg_v11_0
+Compiling package xbip_pipe_v2_0_xst_comp
+Compiling package c_reg_fd_v11_0_comp
+Compiling architecture behavioral of entity c_reg_fd_v11_0 [\c_reg_fd_v11_0(4,"0","0",1,0,0,...]
+Compiling architecture behavioral of entity c_addsub_v11_0_legacy [\c_addsub_v11_0_legacy(4,4,4,0,3...]
+Compiling architecture behavioral of entity c_addsub_v11_0 [\c_addsub_v11_0(0,"spartan3e",0,...]
+Compiling architecture caixa1_somador_a of entity caixa1_somador [caixa1_somador_default]
+Compiling architecture behavioral of entity trabalho1 [trabalho1_default]
+Compiling architecture behavior of entity tb_trabalho1
+Time Resolution for simulation is 1ps.
+Waiting for 7 sub-compilation(s) to finish...
+Compiled 23 VHDL Units
+Built simulation executable C:/cassio/VHDL/trabalho1/trabalho1/tb_trabalho1_isim_beh.exe
+Fuse Memory Usage: 43220 KB
+Fuse CPU Usage: 937 ms
